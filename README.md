@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush-droid996" alt="piyush-droid996" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Piyush-droid996?tab=repositories](https://github.com/Piyush-droid996?tab=repositories)
-
-- 💬 Ask me about **JS,HTML,CSS,JAVA**
 
 - 📫 How to reach me **piyushsaxena030@gmail.com**
 
