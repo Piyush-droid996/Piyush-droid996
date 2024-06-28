@@ -20,7 +20,7 @@
   <a href="https://stackoverflow.com/users/16071110/4cs25-piyush-saxena" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://github.com/piyush-droid996" target="_blank">
+  <a href="https://instagram.com/piyush-droid996" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/piyushsaxena" target="_blank">
@@ -63,12 +63,48 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
+<h3 align="center">Top Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-droid996&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyush-droid996&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+<h3 align="center">GitHub Streak</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-droid996&theme=radical" alt="GitHub Streak" />
 </p>
+<h3 align="center">Skills:</h3>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="center">Achievements:</h3>
+<ul>
+  <li>🏆 Awarded <strong>Best Project</strong> at [Your Event/Competition Name]</li>
+  <li>👨‍💻 Completed [Course/Certification] from [Institution Name]</li>
+  <li>🌟 Maintainer of [Your Open Source Project Name]</li>
+</ul>
