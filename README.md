@@ -95,9 +95,4 @@
 </a>
 
 </p>
-<h3 align="center">Achievements:</h3>
-<ul>
-  <li>🏆 Awarded <strong>Best Project</strong> at [Your Event/Competition Name]</li>
-  <li>👨‍💻 Completed [Course/Certification] from [Institution Name]</li>
-  <li>🌟 Maintainer of [Your Open Source Project Name]</li>
-</ul>
+
