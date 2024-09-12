@@ -83,27 +83,3 @@
   <img src="https://badges.pufler.dev/years/piyush-droid996" alt="GitHub Years Badge" />
 </p>
 
-<!-- CSS Styling -->
-<style>
-  h1 {
-    animation: colorChange 2s infinite;
-    font-size: 3em;
-    font-family: 'Courier New', Courier, monospace;
-  }
-  @keyframes colorChange {
-    0% { color: #ff4d4d; }
-    25% { color: #4d4dff; }
-    50% { color: #4dff4d; }
-    75% { color: #ff4dff; }
-    100% { color: #ff4d4d; }
-  }
-  body {
-    background: linear-gradient(45deg, #4d4dff, #ff4d4d, #4dff4d);
-    animation: gradientMove 10s ease infinite;
-  }
-  @keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
