@@ -2,8 +2,8 @@
 
 <!-- SVG 3D Coding Image -->
 <p align="center">
- <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">
-  <img src="https://icons8.com/illustrations/author/HxMFjfKZdNq2"/>
+<img src="https://icons8.com/illustrations/author/HxMFjfKZdNq2"/>
+
 </a>
 
 </p>
