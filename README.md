@@ -1,8 +1,8 @@
 <h1 align="center">Hey!! Folks 👋, I'm Piyush Saxena</h1>
 
-<!-- Animated GIF -->
+<!-- SVG 3D Coding Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="300"/>
+  <img src="https://your-svg-url.com/3d-coding-svg.svg" alt="3D Coding SVG" width="500" height="300"/>
 </p>
 
 <h3 align="center">About Me</h3>
@@ -67,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-droid996&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- SVG Animation -->
+<!-- SVG Animations -->
 <p align="center">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Animation" width="200"/>
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="React Animation" width="200"/>
