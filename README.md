@@ -2,7 +2,10 @@
 
 <!-- SVG 3D Coding Image -->
 <p align="center">
-  <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2" target="_blank" rel="noopener noreferrer">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations" target="_blank" rel="noopener noreferrer">Ouch!</a>
+ <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">
+  <img src="https://icons8.com/illustrations/author/HxMFjfKZdNq2"/>
+</a>
+
 </p>
 
 <h3 align="center">About Me</h3>
