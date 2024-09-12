@@ -1,4 +1,4 @@
-<h1 align="center">Hey!! Folks 👋, I'm Piyush Saxena</h1>
+<h1 align="center" style="animation: colorChange 2s infinite; font-size: 3em; font-family: 'Courier New', Courier, monospace;">Hey!! Folks 👋, I'm Piyush Saxena</h1>
 
 <!-- SVG 3D Coding Image -->
 <p align="center">
