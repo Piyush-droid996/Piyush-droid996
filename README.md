@@ -2,7 +2,9 @@
 
 <!-- SVG 3D Coding Image -->
 <p align="center">
-<img src="https://icons8.com/illustrations/author/HxMFjfKZdNq2"/>
+<img src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?t=st=1726158632~exp=1726162232~hmac=a21ae257099cd913cb73f8970b702c8600bcba646c2d187ab0bc44f2c7ca7e2f&w=740" alt="Coding Image" />
+
+</a>
 
 </a>
 
