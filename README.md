@@ -2,7 +2,7 @@
 
 <!-- SVG 3D Coding Image -->
 <p align="center">
-  <img src="https://your-svg-url.com/3d-coding-svg.svg" alt="3D Coding SVG" width="500" height="300"/>
+  <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2" target="_blank" rel="noopener noreferrer">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations" target="_blank" rel="noopener noreferrer">Ouch!</a>
 </p>
 
 <h3 align="center">About Me</h3>
