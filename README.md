@@ -1,26 +1,13 @@
+<!-- Introduction -->
 <h1 align="center" style="animation: wavingAnimation 1.5s infinite; font-size: 3em; font-family: 'Courier New', Courier, monospace;">
   Hey!! Folks 👋, I'm Piyush Saxena
 </h1>
 
-<!-- Waving Animation CSS -->
-<style>
-  @keyframes wavingAnimation {
-    0% { transform: rotate(0); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    100% { transform: rotate(0); }
-  }
-</style>
-
-<!-- About Me -->
-<h3 align="center">About Me</h3>
 <p align="center">
   <strong>
-    I am a passionate programmer and developer with experience in various technologies. 
-    Always excited to learn and build new things!
+    I'm a passionate <span style="color: #4CAF50;">programmer</span>, 
+    <span style="color: #03A9F4;">developer</span>, and <span style="color: #FFC107;">tech enthusiast</span> who loves to build exciting and impactful projects.  
+    With expertise in modern web technologies and frameworks, I am always looking forward to learning, innovating, and sharing my knowledge.
   </strong>
 </p>
 <p align="center">
@@ -29,17 +16,63 @@
   </a>
 </p>
 
-<!-- Technologies & Skills -->
+<!-- Skills -->
 <h3 align="center">Technologies & Skills</h3>
 <p align="center">
-  <!-- Add your skill icons here -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
   </a>
-  <!-- Add additional technologies here -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+  </a>
+</p>
+
+<!-- Projects -->
+<h3 align="center">Projects</h3>
+<p align="center">
+  <strong>1. Freelance Job Portal</strong>  
+  <em>React-based platform for freelancers and clients to connect. Features include job search, application forms, and responsive UI.</em>  
+  <a href="https://freelance-job-portal.vercel.app/" target="_blank" rel="noreferrer">
+    Live Demo
+  </a> | 
+  <a href="https://github.com/piyush-droid996/freelance-job-portal" target="_blank" rel="noreferrer">
+    GitHub Repo
+  </a>
+</p>
+<p align="center">
+  <strong>2. News Blog Application</strong>  
+  <em>React app to display news articles and detailed blog pages with features like navigation and animations.</em>  
+  <a href="https://news-blog.vercel.app/" target="_blank" rel="noreferrer">
+    Live Demo
+  </a> | 
+  <a href="https://github.com/piyush-droid996/news-blog-app" target="_blank" rel="noreferrer">
+    GitHub Repo
+  </a>
+</p>
+<p align="center">
+  <strong>3. Portfolio Website</strong>  
+  <em>Personal portfolio website showcasing my skills, projects, and experience.</em>  
+  <a href="https://portfolio-1-green-eight.vercel.app/" target="_blank" rel="noreferrer">
+    Live Demo
+  </a> | 
+  <a href="https://github.com/piyush-droid996/portfolio" target="_blank" rel="noreferrer">
+    GitHub Repo
+  </a>
 </p>
 
 <!-- GitHub Stats -->
@@ -52,26 +85,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-droid996&theme=radical" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Trophies -->
-<h3 align="center">GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyush-droid996&theme=radical&row=1&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-<!-- Random Quote -->
-<h3 align="center">Random Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
-<!-- Buy Me a Coffee -->
-<h3 align="center">Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/piyushsaxena" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
-  </a>
 </p>
 
 <!-- Contact Me -->
